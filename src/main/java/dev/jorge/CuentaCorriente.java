@@ -37,5 +37,9 @@ public class CuentaCorriente extends Cuenta {
         super.imprimir();
         System.out.println("Sobregiro: " + sobregiro);
     }
+    public Integer getSobregiro() {
+  
+        throw new UnsupportedOperationException("Unimplemented method 'getSobregiro'");
+    }
 }
-}
+

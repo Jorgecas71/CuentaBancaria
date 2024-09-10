@@ -8,4 +8,20 @@ public class Main {
         cuentaAhorros.extractoMensual();
         
     }
+
+    public int dividir(int i, int j) {
+        throw new UnsupportedOperationException("Unimplemented method 'dividir'");
+    }
+
+    public int multiplicar(int i, int j) {
+        throw new UnsupportedOperationException("Unimplemented method 'multiplicar'");
+    }
+
+    public int restar(int i, int j) {
+        throw new UnsupportedOperationException("Unimplemented method 'restar'");
+    }
+
+    public int sumar(int i, int j) {
+        throw new UnsupportedOperationException("Unimplemented method 'sumar'");
+    }
 }
